@@ -1,1 +1,1 @@
-# AcunMedyaHaftal-kOdevler
+# AcunMedyaHaftalikOdevler
